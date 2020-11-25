@@ -1,0 +1,16 @@
+C:\Users\Latitude\source\repos\matrixgame\bin\Debug\netcoreapp3.1\matrixgame.exe
+C:\Users\Latitude\source\repos\matrixgame\bin\Debug\netcoreapp3.1\matrixgame.deps.json
+C:\Users\Latitude\source\repos\matrixgame\bin\Debug\netcoreapp3.1\matrixgame.runtimeconfig.json
+C:\Users\Latitude\source\repos\matrixgame\bin\Debug\netcoreapp3.1\matrixgame.runtimeconfig.dev.json
+C:\Users\Latitude\source\repos\matrixgame\bin\Debug\netcoreapp3.1\matrixgame.dll
+C:\Users\Latitude\source\repos\matrixgame\bin\Debug\netcoreapp3.1\matrixgame.pdb
+C:\Users\Latitude\source\repos\matrixgame\obj\Debug\netcoreapp3.1\matrixgame.csprojAssemblyReference.cache
+C:\Users\Latitude\source\repos\matrixgame\obj\Debug\netcoreapp3.1\matrixgame.AssemblyInfoInputs.cache
+C:\Users\Latitude\source\repos\matrixgame\obj\Debug\netcoreapp3.1\matrixgame.AssemblyInfo.cs
+C:\Users\Latitude\source\repos\matrixgame\obj\Debug\netcoreapp3.1\matrixgame.dll
+C:\Users\Latitude\source\repos\matrixgame\obj\Debug\netcoreapp3.1\matrixgame.pdb
+C:\Users\Latitude\source\repos\matrixgame\obj\Debug\netcoreapp3.1\matrixgame.genruntimeconfig.cache
+C:\Users\Latitude\source\repos\matrixgame\bin\Debug\netcoreapp3.1\MathNet.Numerics.dll
+C:\Users\Latitude\source\repos\matrixgame\obj\Debug\netcoreapp3.1\matrixgame.csproj.CopyComplete
+C:\Users\Latitude\source\repos\matrixgame\bin\Debug\netcoreapp3.1\DotNumerics.dll
+C:\Users\Latitude\source\repos\matrixgame\obj\Debug\netcoreapp3.1\matrixgame.csproj.CoreCompileInputs.cache
